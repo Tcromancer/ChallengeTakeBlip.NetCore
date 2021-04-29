@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj": {}
+    "D:\\gitprojects\\ChallengeTakeBlip.NetCore\\ChallengeTakeBlip.NetCore\\GithubApiCore\\GithubApiCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj": {
+    "D:\\gitprojects\\ChallengeTakeBlip.NetCore\\ChallengeTakeBlip.NetCore\\GithubApiCore\\GithubApiCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj",
+        "projectUniqueName": "D:\\gitprojects\\ChallengeTakeBlip.NetCore\\ChallengeTakeBlip.NetCore\\GithubApiCore\\GithubApiCore.csproj",
         "projectName": "GithubApiCore",
-        "projectPath": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj",
-        "packagesPath": "C:\\Users\\bruno.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\obj\\",
+        "projectPath": "D:\\gitprojects\\ChallengeTakeBlip.NetCore\\ChallengeTakeBlip.NetCore\\GithubApiCore\\GithubApiCore.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "D:\\gitprojects\\ChallengeTakeBlip.NetCore\\ChallengeTakeBlip.NetCore\\GithubApiCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bruno.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Desenvolvimento\\S-Forms New\\sforms-services\\SForms\\packages\\FlexCel.6.2.1.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

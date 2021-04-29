@@ -5306,19 +5306,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bruno.santos\\.nuget\\packages\\": {}
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj",
+      "projectUniqueName": "D:\\gitprojects\\ChallengeTakeBlip.NetCore\\ChallengeTakeBlip.NetCore\\GithubApiCore\\GithubApiCore.csproj",
       "projectName": "GithubApiCore",
-      "projectPath": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj",
-      "packagesPath": "C:\\Users\\bruno.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\obj\\",
+      "projectPath": "D:\\gitprojects\\ChallengeTakeBlip.NetCore\\ChallengeTakeBlip.NetCore\\GithubApiCore\\GithubApiCore.csproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "D:\\gitprojects\\ChallengeTakeBlip.NetCore\\ChallengeTakeBlip.NetCore\\GithubApiCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bruno.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5326,7 +5326,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Desenvolvimento\\S-Forms New\\sforms-services\\SForms\\packages\\FlexCel.6.2.1.0": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5366,7 +5365,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -5375,7 +5374,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "message": "O pacote 'Microsoft.AspNet.WebApi.Core 5.2.7' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
